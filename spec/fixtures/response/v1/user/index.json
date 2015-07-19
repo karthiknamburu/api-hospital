@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11,
+    "department_id": 79,
+    "name": "Jhon",
+    "created_at": "2015-07-19T07:48:53.000Z",
+    "updated_at": "2015-07-19T07:48:53.000Z",
+    "account_id": "8FBVDV30WNV6ZY",
+    "secret_token": "tZyxr_PQVdySK36_NvKx9ZeQQRJCUq2f_onb"
+  },
+  {
+    "id": 12,
+    "department_id": 79,
+    "name": "Jhon",
+    "created_at": "2015-07-19T07:48:53.000Z",
+    "updated_at": "2015-07-19T07:48:53.000Z",
+    "account_id": "8FBVDV38DVYDLG",
+    "secret_token": "-moek_IfG5Q-Q1KP9Fs97O_Aa3Gp-aq_6nvc"
+  },
+  {
+    "id": 13,
+    "department_id": 79,
+    "name": "Jhon",
+    "created_at": "2015-07-19T07:48:53.000Z",
+    "updated_at": "2015-07-19T07:48:53.000Z",
+    "account_id": "UBZJDWQ6E5SEA",
+    "secret_token": "xlHU4_5wbL96xNW5WoUhrfkCv9kFUpRG2xrF"
+  },
+  {
+    "id": 14,
+    "department_id": 79,
+    "name": "Jhon",
+    "created_at": "2015-07-19T07:48:53.000Z",
+    "updated_at": "2015-07-19T07:48:53.000Z",
+    "account_id": "UBZJDWQGWP0PA",
+    "secret_token": "6I0hMHFurFltp-B1dW9E1O1yk-LjHym7Q3C_"
+  },
+  {
+    "id": 15,
+    "department_id": 79,
+    "name": "Jhon",
+    "created_at": "2015-07-19T07:48:53.000Z",
+    "updated_at": "2015-07-19T07:48:53.000Z",
+    "account_id": "UBZJDWQMVGDLQ",
+    "secret_token": "XC0FooTf64fVJIHRr5ZMTfx5OCNmqcibP-cp"
+  }
+]

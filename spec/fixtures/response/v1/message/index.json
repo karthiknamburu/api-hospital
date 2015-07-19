@@ -1,0 +1,37 @@
+[
+  {
+    "id": 6,
+    "sender_id": 92,
+    "body": "Hello",
+    "chat_id": 28,
+    "created_at": "2015-07-19T08:30:55.000Z"
+  },
+  {
+    "id": 7,
+    "sender_id": 92,
+    "body": "Hello",
+    "chat_id": 28,
+    "created_at": "2015-07-19T08:30:55.000Z"
+  },
+  {
+    "id": 8,
+    "sender_id": 92,
+    "body": "Hello",
+    "chat_id": 28,
+    "created_at": "2015-07-19T08:30:55.000Z"
+  },
+  {
+    "id": 9,
+    "sender_id": 92,
+    "body": "Hello",
+    "chat_id": 28,
+    "created_at": "2015-07-19T08:30:55.000Z"
+  },
+  {
+    "id": 10,
+    "sender_id": 92,
+    "body": "Hello",
+    "chat_id": 28,
+    "created_at": "2015-07-19T08:30:55.000Z"
+  }
+]
